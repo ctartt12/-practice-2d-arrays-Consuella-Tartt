@@ -22,6 +22,7 @@ contactsList = [
     ["Sage", "314-123-2023", "sage@example.com"],
     ["Arye", "314-123-2026", "arye@example.com"]
 ]
-contactsList[0][2] 
-contactsList[1][1]
-contactsList[2][0]  
+console.log(contactsList[0][0]); // logs "Jade"
+console.log(contactsList[1][1]); // logs "314-123-2023"
+console.log(contactsList[2][2]); // logs "
+ 
