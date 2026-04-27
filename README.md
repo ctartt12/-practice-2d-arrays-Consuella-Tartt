@@ -10,7 +10,7 @@ test scores for a single student.
 
 Challenge 2: Build a Seating Grid
 You want to model three rows of seats in a theater with four seats per row. Create
-a 2D array called theaterSeating that has an outer array of three inner arrays,
+a 2D array called  that has an outer array of three inner arrays,
 each inner array representing a row of four seat labels. (For instance, seat labels
 could be "A1", "A2", etc.)
 1. Use nested array literals to define the structure.
